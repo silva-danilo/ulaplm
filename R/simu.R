@@ -1,4 +1,3 @@
-
 # setwd
 setwd("/home/posmae/danilo.silva/Rede IME/ulaplm")
 #setwd("/mnt/chromeos/removable/danvah/ulaplm")
